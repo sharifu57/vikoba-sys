@@ -1,0 +1,4 @@
+
+# JVM diagnostics may contain environment secrets
+hs_err_pid*.log
+replay_pid*.log
